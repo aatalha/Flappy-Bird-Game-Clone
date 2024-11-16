@@ -15,3 +15,10 @@ This project is a Python-based recreation of the infamous Flappy Bird game. It u
 - Click the mouse button to make the bird flap and avoid pipes.
 - The game ends when the bird collides with a pipe, touches the ground, or flies off the top of the screen.
 - Click on the restart button to try again.
+
+##Issues
+
+There are still a few minor issues with the game that I am actively working to resolve:
+- Pipes at the right edge of the screen remain visible through the ground after the game ends.
+- Clicking after the game ends briefly displays the start screen.
+- The bird still reacts to clicks and flaps even after the game has ended.
