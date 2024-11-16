@@ -16,7 +16,7 @@ This project is a Python-based recreation of the infamous Flappy Bird game. It u
 - The game ends when the bird collides with a pipe, touches the ground, or flies off the top of the screen.
 - Click on the restart button to try again.
 
-##Issues
+## Issues
 
 There are still a few minor issues with the game that I am actively working to resolve:
 - Pipes at the right edge of the screen remain visible through the ground after the game ends.
