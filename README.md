@@ -10,8 +10,8 @@ This project is a Python-based recreation of the infamous Flappy Bird game. It u
 - Custom assets: Includes background, bird, ground, and game-over images.
 
 # How to Play
-- Launch the game.
-- Tap anywhere on the screen to start the game.
+- Run the code and game will start (make sure you have pygame installed).
+- Click anywhere on the screen to start the game.
 - Click the mouse button to make the bird flap and avoid pipes.
-- The game ends when the bird hits a pipe or the ground.
-- Press the restart button to try again.
+- The game ends when the bird collides with a pipe, touches the ground, or flies off the top of the screen.
+- Click on the restart button to try again.
