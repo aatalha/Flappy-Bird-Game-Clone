@@ -2,7 +2,7 @@
 This project is a Python-based recreation of the infamous Flappy Bird game. It uses the pygame library for graphics, animations, and game logic, providing a fun and interactive gaming experience.
 
 
-<img src="game_files/images/game_screenshot.PNG" alt="Game screenshot" width="312" height="498">
+<img align="center" src="game_files/images/game_screenshot.PNG" alt="Game screenshot" width="312" height="498">
 
 # Features
 - Pixel-perfect Flappy Bird gameplay: Smooth graphics and intuitive controls.
