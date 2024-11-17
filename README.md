@@ -1,7 +1,8 @@
 # Flappy Bird Game Clone
 This project is a Python-based recreation of the infamous Flappy Bird game. It uses the pygame library for graphics, animations, and game logic, providing a fun and interactive gaming experience.
 
-![Game screenshot](game_files/images/game_screenshot.PNG)
+
+<img src="game_files/images/game_screenshot.PNG" alt="Game screenshot" width="208" height="332">
 
 # Features
 - Pixel-perfect Flappy Bird gameplay: Smooth graphics and intuitive controls.
